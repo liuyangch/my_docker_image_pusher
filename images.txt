@@ -1,6 +1,6 @@
 mysql
-python3.7 
-python3.9
+python
+
 
 
 
